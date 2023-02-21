@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+pysimplegui==4.60.4
